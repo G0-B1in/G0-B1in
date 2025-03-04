@@ -8,8 +8,8 @@
 
 ## Мои проекты
 
-- [Дино-Пицца] https://github.com/G0-B1in/psychological-tests 
-- [Игра: Психологичесие тесты] https://github.com/G0-B1in/psychological-tests 
+- Дино-Пицца https://github.com/G0-B1in/psychological-tests 
+- Игра: Психологичесие тесты https://github.com/G0-B1in/psychological-tests 
 
 - ## Связь сл мной
 
