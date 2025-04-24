@@ -4,7 +4,7 @@
 
 - Языки программирования: C#
 - Фреймворки и платформы: .NET Framework, .NET Core, WPF
-- СУБД: SQLSserver 
+- СУБД: SQLSserver, SQLite 
 
 ## Мои проекты
 
